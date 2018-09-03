@@ -1,0 +1,7 @@
+rathore,123456,English,2018-06-18
+rathore,123456,hkdass,2018-06-18
+p,0,harry potter,2018-06-19
+p,0,hkdass,2018-06-19
+p,0,English,2018-06-19
+rathore,123456,thermal,2018-06-19
+rathore,123456,physics,2018-08-10
